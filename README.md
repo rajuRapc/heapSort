@@ -1,4 +1,4 @@
-# heapSort
+# heapSort.cpp
 implements the heapSort functions 
 The code takes N integers into a an integer array 
 	1 <= numberOfElements <= 4,294,967,295
@@ -19,12 +19,15 @@ Clears the vector after printing
 The ask for zero or a none zero iteger value
 0 to exit any other to continue looping the above algoirthm 
 
+# heapSortSamplerun-1
+HeapsortSamplerun-1  shwos a sample run of the program
 
-How to run the code 
+
+# How to run the code 
 
 downlaod the heapSort.cpp file
 
-using visualstudio:
+ # using visualstudio:
 
 To create a C++ project in Visual Studio 2019
 From the main menu, choose File > New > Project to open the Create a New Project dialog box.
@@ -59,12 +62,14 @@ On the Debug menu, click Start without Debugging.
 a command window is displayed follwo the instructions in the window 
 
 
-running the heapSOrt.cpp file using g++ compiler 
+ # running the heapSOrt.cpp file using g++ compiler 
 
 open the terminal 
 chnage the director to the folder you have the heapSot.cpp file stored 
 type the command g++ -o main.exe heapSort.cpp
 the ntype the command ./main.exe
 follow the instructions in the terminal to run the program 
+
+
 
 
